@@ -1,0 +1,9 @@
+npm init -y 
+
+npm i express mongoose ejs
+
+npm i cors
+
+npm i bcryptjs
+
+npm i jsonwebtoken
