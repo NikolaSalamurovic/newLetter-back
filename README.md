@@ -12,6 +12,10 @@ Dependencies :
 
 Installeras genom: npm install
 
+
+Back-end applikationen är kopplad till den lokala mongoDB server.
+
+
 Startup:
 
 -Startas genom kommandot "nodemon server.js" och kan nås på localhost:3000 i webbläsaren.
